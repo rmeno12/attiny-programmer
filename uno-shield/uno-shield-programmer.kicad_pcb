@@ -2097,7 +2097,7 @@
   (gr_text "PB0/MOSI/SDA\n /AREF/D0" (at 160 64.75 90) (layer "F.SilkS") (tstamp 48eae5ac-e408-4c2a-924c-085eca26b327)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
-  (gr_text "ATtiny Programmer v0.1" (at 114 83 90) (layer "F.SilkS") (tstamp 64d38b8c-f83b-43b1-9677-12064f1b8f8d)
+  (gr_text "ATtiny Uno Shield v0.2" (at 114 83 90) (layer "F.SilkS") (tstamp 64d38b8c-f83b-43b1-9677-12064f1b8f8d)
     (effects (font (size 1.25 1.25) (thickness 0.2)))
   )
   (gr_text "HRT" (at 139.1 68.975 90) (layer "F.SilkS") (tstamp 66e6a3c8-341f-401f-a425-52a86c302a67)
